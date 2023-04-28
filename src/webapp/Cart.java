@@ -7,4 +7,6 @@ public class Cart {
     // total
     // price
     // apples
+
+    // new deals
 }
